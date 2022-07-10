@@ -16,6 +16,6 @@ public class AzureappApplication {
     @GetMapping("/welcome")
     public String printName()
     {
-        return "Hai Sanoop, Your first azure app !!";
+        return "Hai All, Your first azure app !!";
     }
 }
